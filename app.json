@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "raven-expo-app",
+    "description": "A demo app for Raven UI Library",
+    "slug": "raven-expo-app",
+    "privacy": "public",
+    "sdkVersion": "26.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "primaryColor": "#cccccc",
+    "icon": "./assets/icons/icon.png",
+    "splash": {
+      "image": "./assets/icons/loading.png"
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf"
+      ],
+      "config": "rn-cli.config.js"
+    },
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
